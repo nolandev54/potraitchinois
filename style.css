@@ -1,13 +1,1 @@
 
-div{
-    width: 320px;
-    height: 160px;
-    border: 1px solid #333;
-    margin: 10px auto;
-    background-color : RGBa(255, 255, 0, 0.2);
-}
-
-body{
-  background-image: url("0NA18MjfbXpTuR3SANCwaDLelTY.png");
-  background-color : RGBa(255, 255, 0, 0.2);
-}
